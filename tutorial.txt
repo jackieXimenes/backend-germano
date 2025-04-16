@@ -1,0 +1,4 @@
+dentro do repositorio backend-germano entra em agendamentos/public
+extrai public.rar
+
+entra em agendamento extrai vendor.rar e agendamentos_backend
