@@ -2,3 +2,7 @@ dentro do repositorio backend-germano entra em agendamentos/public
 extrai public.rar
 
 entra em agendamento extrai vendor.rar e agendamentos_backend
+
+entre na pasta agendamentos_backend já descompactada e apague as pastas app e routes (pois essas versões estão desatualizadas) 
+
+depois baixe as pastas zipadas routes e app mais recentes, extraia-as e, no gerenciador de arquivo inclua elas na aplicação "agendamentos_backend" 
